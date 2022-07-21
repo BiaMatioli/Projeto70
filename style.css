@@ -1,0 +1,24 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.fundshead {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.fundshead i {
+    float: right;
+}
+
+.fai span {
+    color: gold;
+}
+
+.faf span {
+    color: gold;
+}
